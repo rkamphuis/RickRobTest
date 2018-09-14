@@ -1,2 +1,4 @@
 Eerste test in dit project.
 test
+Nieuwe regel toegevoegd en nieuwe branch aangemaakt om de 'master' branch schoon
+te houden en alleen vernaderingen te hebben die goedgekeurd zijn.
